@@ -3,6 +3,8 @@
 
 # skoleskyss-logs-stats
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/skoleskyss-logs-stats.svg)](https://greenkeeper.io/)
+
 Stats for skoleskyss logs
 
 ## API
