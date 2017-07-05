@@ -19,6 +19,22 @@ Get stats for schools
 
 Get stats for categories
 
+### ```GET /stats/bosted```
+
+Get stats for bosted
+
+### ```GET /stats/duplicates```
+
+Get stats for duplicates
+
+### ```GET /stats/multiples```
+
+Get stats for multiples
+
+### ```GET /stats/uniques```
+
+Get stats for uniques
+
 ### ```GET /stats/queue```
 
 Get number of logs in queue
