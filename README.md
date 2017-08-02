@@ -19,6 +19,10 @@ Get stats for schools
 
 Get stats for categories
 
+### ```GET /stats/status```
+
+Get stats for statuses
+
 ### ```GET /stats/bosted```
 
 Get stats for bosted
