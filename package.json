@@ -60,7 +60,7 @@
     "test-listen": "1.1.0"
   },
   "dependencies": {
-    "marked": "0.3.12",
+    "marked": "0.4.0",
     "micro": "9.3.1",
     "mongojs": "2.4.1",
     "winston": "2.4.2",
