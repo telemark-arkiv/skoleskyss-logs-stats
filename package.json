@@ -55,14 +55,14 @@
     "coveralls": "3.0.1",
     "micro-dev": "3.0.0",
     "nsp": "3.2.1",
-    "nyc": "11.8.0",
+    "nyc": "12.0.2",
     "standard": "11.0.1",
     "test-listen": "1.1.0"
   },
   "dependencies": {
-    "marked": "0.3.12",
+    "marked": "0.3.40",
     "micro": "9.3.2",
-    "mongojs": "2.4.1",
+    "mongojs": "2.6.0",
     "winston": "2.4.2",
     "winston-papertrail": "1.0.5"
   }
